@@ -1,4 +1,4 @@
-export const host = "https://noisy-pond-7641.on.fleek.co/";
+export const host = "https://noisy-pond-7641.on.fleek.co";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
